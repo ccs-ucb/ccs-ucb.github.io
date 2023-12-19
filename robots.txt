@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ccs-ucb.github.io/ccs-ucb.github.io//sitemap.xml
+Sitemap: https://ccs-ucb.github.io/sitemap.xml
