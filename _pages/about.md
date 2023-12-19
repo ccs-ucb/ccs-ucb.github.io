@@ -28,6 +28,6 @@ social: false  # includes social icons at the bottom of the page
 </div>
 <div class="container text-right">
   <div class="container text-right">
-    <p> Read our <a href="https://www.nature.com/articles/s41562-023-01715-5">latest research paper &rarr;</a></p>
+    <p> Read our <a href="https://www.nature.com/articles/s41562-023-01715-5">latest research &rarr;</a></p>
   </div>
 </div>
