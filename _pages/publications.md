@@ -8,6 +8,6 @@ nav_order: 1
 nav_blue: true
 ---
 <!-- _pages/publications.md -->
-<div>
+<div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} %}
 </div>
