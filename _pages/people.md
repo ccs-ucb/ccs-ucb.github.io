@@ -122,7 +122,7 @@ nav_blue: true
         <img src="{{ site.baseurl }}/assets/img/team/BT.jpeg" class="card-img-top" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0"><b>Binyue Tan</b></h5>
-          <div class="card-text text-black-50">Research Assistant<</div>
+          <div class="card-text text-black-50">Research Assistant</div>
           <br>
         </div>
       </div>
@@ -132,7 +132,7 @@ nav_blue: true
         <img src="{{ site.baseurl }}/assets/img/team/QG.png" class="card-img-top" alt="...">
         <div class="card-body text-center">
           <h5 class="card-title mb-0"><b>Qi Guo</b></h5>
-          <div class="card-text text-black-50">Research Assistant<</div>
+          <div class="card-text text-black-50">Research Assistant</div>
           <br>
         </div>
       </div>
