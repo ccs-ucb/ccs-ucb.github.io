@@ -27,7 +27,7 @@ nav_blue: true
         <div class="card-body text-center">
           <h5 class="card-title mb-0"><b>Bill Thompson</b></h5>
           <div class="card-text text-black-50">Assistant Professor & PI</div>
-          <a href="https://ccs-ucb.github.io/wdt.html">Website</a>
+          <a href="https://billdthompson.github.io">Website</a>
         </div>
       </div>
     </div>
