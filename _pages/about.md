@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 <div class="centered">
-  <h2><span style="color: #EE1F60;">Welcome </span><span style="color: #003262;">to </span> <span style="color: #00A598;">the </span></h2><h1 style="font-size:600%; color:#003262; font-weight: bold;">Computational Cognitive Science Laboratory</h1><h2><span style="color: #003262;">at </span><span style="color: #859438;">the </span><span style="color: #EE1F60;"> University of California, Berkeley</span></h2>
+  <h2><span style="color: #EE1F60;">Welcome </span><span style="color: #003262;">to </span> <span style="color: #00A598;">the </span></h2><h1 style="font-size:6vw; color:#003262; font-weight: bold;">Computational Cognitive Science Laboratory</h1><h2><span style="color: #003262;">at </span><span style="color: #859438;">the </span><span style="color: #EE1F60;"> University of California, Berkeley</span></h2>
   <br>
   <br>
 </div>
