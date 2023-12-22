@@ -12,6 +12,7 @@ nav_blue: true
 .card-img-top {
     width: 20vw;
     height: 20vw;
+    min-height: 200px;
     object-fit: cover;
 }
 </style>
