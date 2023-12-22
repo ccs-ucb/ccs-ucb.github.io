@@ -50,7 +50,7 @@ nav_blue: true
         <div class="card-body text-center">
           <h5 class="card-title mb-0"><b>María Martín López</b></h5>
           <div class="card-text text-black-50">Graduate Student</div>
-          <a class="stretched-link" href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-lópez-30186274/">Website</a>
+          <a class="stretched-link" href="https://mariamartinlopez5.wixsite.com/mariamartinlopez">Website</a>
         </div>
       </div>
     </div>
