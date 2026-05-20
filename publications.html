@@ -9,8 +9,7 @@
 </head>
 <body>
     <header>
-        <div class="container header-container">
-            <nav class="navigation">
+        <div class="container header-container"><nav class="navigation">
                 <a href="index.html">Home</a>
                 <a href="#publications">Publications</a>
                 <a href="team.html">Team</a>
@@ -32,25 +31,16 @@
             <br>
               <!-- <span class="if year"> -->
                 <strong><span class="title"></span></strong><br>
-                <span class="author"></span> 
-                (<span class="year"></span>)
-                <span class="if BIBTEXTYPEKEY==ARTICLE">
-                  <span class="journal" style="font-style: italic;"></span>,
-                  <span class="volume" style="font-style: italic;"></span><span class="if number">(<span class="number"></span>)</span>,
-                </span>
-
-                <span class="if BIBTEXTYPEKEY==INPROCEEDINGS">
-                  <span class="booktitle" style="font-style: italic;">in </span>
-                </span>
-                <span class="if pages"><span class="pages"></span></span>
+                <span class="author"></span> (<span class="year"></span>)<br>
+                <span class="if BIBTEXTYPEKEY==ARTICLE"><span class="if journal"><span class="journal" style="font-style: italic;"></span></span><span class="if volume">, <span class="volume" style="font-style: italic;"></span></span><span class="if number">(<span class="number"></span>)</span></span><span class="if BIBTEXTYPEKEY==INPROCEEDINGS"><span class="if booktitle"><span style="font-style: italic;">in <span class="booktitle"></span></span></span></span><span class="if pages">, <span class="pages"></span></span>
                 <span class="if doi">
                   <br>
-                  <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi"><span class="doi"></span></a>
+                  <a class="bibtexVar publication-doi" href="http://dx.doi.org/+DOI+" extra="doi"><span class="doi"></span></a>
                 </span>
                 <span class="if !doi">
                   <span class="if url">
                   <br>
-                  <a class="bibtexVar" href="+URL+" extra="url"><span class="url"></span></a>
+                  <a class="bibtexVar publication-url" href="+URL+" extra="url"><span class="url"></span></a>
                 </span>
                 </span>        
 
@@ -58,7 +48,6 @@
         </div>
     </main>
 
-
-
+    <script src="publications.js"></script>
 </body>
 </html>
